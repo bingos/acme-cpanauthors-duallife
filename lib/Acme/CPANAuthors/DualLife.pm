@@ -71,7 +71,7 @@ use Acme::CPANAuthors::Register (
   YVES => q[Yves],
 );
 
-q[We are POEsters];
+q[Dual life better than Real life];
 
 =pod
 

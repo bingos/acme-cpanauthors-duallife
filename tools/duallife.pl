@@ -81,7 +81,7 @@ print "$_" for @authors;
 print <<MIDDLE;
 );
 
-q[We are POEsters];
+q[Dual life better than Real life];
 
 =pod
 
