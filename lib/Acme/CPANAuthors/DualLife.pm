@@ -11,7 +11,6 @@ use Acme::CPANAuthors::Register (
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
-  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -69,6 +68,7 @@ use Acme::CPANAuthors::Register (
   TODDR => q[Todd Rinaldo],
   TOMHUGHES => q[Tom Hughes],
   YVES => q[Yves],
+  ZEFRAM => q[Andrew Main (Zefram)],
 );
 
 q[Dual life better than Real life];
@@ -101,7 +101,6 @@ It is currently statically generated information, I hope to make it dynamic in t
   ANDK => q[Andreas J. Koenig],
   ANDYA => q[Andy Armstrong],
   AUDREYT => q[Audrey Tang],
-  BDFOY => q[brian d foy],
   BINGOS => q[Chris Williams],
   CHORNY => q[Alexandr Ciornii],
   CORION => q[Max Maischein],
@@ -159,6 +158,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   TODDR => q[Todd Rinaldo],
   TOMHUGHES => q[Tom Hughes],
   YVES => q[Yves],
+  ZEFRAM => q[Andrew Main (Zefram)],
 
 =head1 SEE ALSO
 
