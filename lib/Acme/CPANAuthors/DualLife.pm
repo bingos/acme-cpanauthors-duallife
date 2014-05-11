@@ -24,6 +24,7 @@ use Acme::CPANAuthors::Register (
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
   ETHER => q[Karen Etheridge],
+  EXODIST => q[Chad Granum],
   FERREIRA => q[Adriano Ferreira],
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
@@ -71,7 +72,7 @@ use Acme::CPANAuthors::Register (
   TJENNESS => q[Tim Jenness],
   TODDR => q[Todd Rinaldo],
   TOMHUGHES => q[Tom Hughes],
-  YVES => q[Yves],
+  WOLFSAGE => q[Matthew Horsfall (alh)],
   ZEFRAM => q[Andrew Main (Zefram)],
 );
 
@@ -118,6 +119,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   DWHEELER => q[David E. Wheeler],
   ELIZABETH => q[Elizabeth Mattijsen],
   ETHER => q[Karen Etheridge],
+  EXODIST => q[Chad Granum],
   FERREIRA => q[Adriano Ferreira],
   FLORA => q[Florian Ragwitz],
   GAAS => q[Gisle Aas],
@@ -165,7 +167,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   TJENNESS => q[Tim Jenness],
   TODDR => q[Todd Rinaldo],
   TOMHUGHES => q[Tom Hughes],
-  YVES => q[Yves],
+  WOLFSAGE => q[Matthew Horsfall (alh)],
   ZEFRAM => q[Andrew Main (Zefram)],
 
 =head1 SEE ALSO
