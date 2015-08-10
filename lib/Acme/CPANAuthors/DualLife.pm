@@ -6,7 +6,6 @@ use strict;
 use warnings;
 
 use Acme::CPANAuthors::Register (
-  ADAMK => q[Adam Kennedy],
   AMBS => q[Alberto Manuel Brandao Simoes],
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
@@ -18,10 +17,8 @@ use Acme::CPANAuthors::Register (
   DAGOLDEN => q[David Golden],
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
-  DLAND => q[David Landgren],
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
-  ELIZABETH => q[Elizabeth Mattijsen],
   ETHER => q[Karen Etheridge],
   EXODIST => q[Chad Granum],
   FERREIRA => q[Adriano Ferreira],
@@ -49,6 +46,7 @@ use Acme::CPANAuthors::Register (
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
   NEILB => q[Neil Bowers],
+  NTHYKIER => q[Niels Thykier],
   NWCLARK => q[Nicholas Clark],
   OVID => q[Curtis 'Ovid' Poe],
   PEVANS => q[Paul Evans],
@@ -56,6 +54,7 @@ use Acme::CPANAuthors::Register (
   PJF => q[Paul Jamieson Fenwick],
   PMQS => q[Paul Marquess],
   RGARCIA => q[Rafael Garcia-Suarez],
+  RICHE => q[Richard Elberger],
   RJBS => q[Ricardo SIGNES],
   RMBARKER => q[Robin Barker],
   RRA => q[Russ Allbery],
@@ -100,7 +99,6 @@ It is currently statically generated information, I hope to make it dynamic in t
 
 =head1 CONTAINED AUTHORS
 
-  ADAMK => q[Adam Kennedy],
   AMBS => q[Alberto Manuel Brandao Simoes],
   AMS => q[Abhijit Menon-Sen],
   ANDK => q[Andreas J. Koenig],
@@ -112,10 +110,8 @@ It is currently statically generated information, I hope to make it dynamic in t
   DAGOLDEN => q[David Golden],
   DANKOGAI => q[Dan Kogai],
   DAPM => q[David A P Mitchell],
-  DLAND => q[David Landgren],
   DROLSKY => q[Dave Rolsky],
   DWHEELER => q[David E. Wheeler],
-  ELIZABETH => q[Elizabeth Mattijsen],
   ETHER => q[Karen Etheridge],
   EXODIST => q[Chad Granum],
   FERREIRA => q[Adriano Ferreira],
@@ -143,6 +139,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   MSHELOR => q[Mark Shelor],
   MUIR => q[David Muir Sharnoff],
   NEILB => q[Neil Bowers],
+  NTHYKIER => q[Niels Thykier],
   NWCLARK => q[Nicholas Clark],
   OVID => q[Curtis 'Ovid' Poe],
   PEVANS => q[Paul Evans],
@@ -150,6 +147,7 @@ It is currently statically generated information, I hope to make it dynamic in t
   PJF => q[Paul Jamieson Fenwick],
   PMQS => q[Paul Marquess],
   RGARCIA => q[Rafael Garcia-Suarez],
+  RICHE => q[Richard Elberger],
   RJBS => q[Ricardo SIGNES],
   RMBARKER => q[Robin Barker],
   RRA => q[Russ Allbery],
